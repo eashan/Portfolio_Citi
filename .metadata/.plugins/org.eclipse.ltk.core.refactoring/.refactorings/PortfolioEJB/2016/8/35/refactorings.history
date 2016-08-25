@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;portfolio.test&apos; to &apos;portfolio.test.ejb&apos;&#x0D;&#x0A;- Original project: &apos;PortfolioEJB&apos;&#x0D;&#x0A;- Original element: &apos;PortfolioEJB/ejbModule/portfolio.test&apos;&#x0D;&#x0A;- Renamed element: &apos;PortfolioEJB/ejbModule/portfolio.test.ejb&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;portfolio.test&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/ejbModule&lt;portfolio.test" name="portfolio.test.ejb" qualified="false" references="true" stamp="1472126644900" textual="false" version="1.0"/>
+</session>

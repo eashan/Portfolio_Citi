@@ -1,0 +1,8 @@
+package portfolio.test;
+
+import javax.ejb.Local;
+
+@Local
+public interface TestLocal {
+
+}

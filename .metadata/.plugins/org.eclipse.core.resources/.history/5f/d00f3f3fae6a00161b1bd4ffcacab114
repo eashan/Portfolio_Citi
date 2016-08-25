@@ -1,0 +1,10 @@
+package portfolio.test;
+
+import javax.persistence.Entity;
+
+@Entity
+@Table(name = "testhello")
+public class Test {
+	
+	
+}

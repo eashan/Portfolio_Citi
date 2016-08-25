@@ -1,0 +1,22 @@
+package portfolio.test;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "testhello")
+public class Test {
+	
+	Test(){
+		
+
+	}
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long id;
+
+
+
+}
+

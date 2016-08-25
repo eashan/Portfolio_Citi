@@ -1,0 +1,21 @@
+package portfolio.test;
+
+import javax.naming.Context;
+import javax.naming.InitialContext;
+import javax.ws.rs.Path;
+
+@Path("/Test")
+public class TestResource {
+
+	Context context;
+	TestLocal bean;
+	
+	TestResource(){
+		try{
+			context = new InitialContext();
+			bean = (TestLocal) context.lookup("");
+		}
+	}
+	
+	
+}

@@ -1,0 +1,8 @@
+package portfolio.test;
+
+import javax.ejb.Remote;
+
+@Remote
+public interface TestRemote {
+
+}

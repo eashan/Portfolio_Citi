@@ -1,0 +1,9 @@
+package portfolio.test;
+
+import javax.ws.rs.ApplicationPath;
+
+@ApplicationPath("/rest")
+public class PortfolioApplication extends Application {
+
+	
+}
